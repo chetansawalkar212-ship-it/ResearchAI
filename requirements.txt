@@ -9,3 +9,4 @@ chromadb
 pypdf
 pandas
 duckduckgo-search
+ddgs
