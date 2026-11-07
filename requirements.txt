@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-google-genai
+python-dotenv
+fastapi
+uvicorn
+streamlit
+chromadb
+pypdf
+pandas
+duckduckgo-search
